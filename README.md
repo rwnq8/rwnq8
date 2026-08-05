@@ -259,8 +259,8 @@ All open-access with permanent DOIs on Zenodo and ResearchGate — no paywalls, 
 ## Portfolio Repositories
 
 <div align="center">
-  <a href="https://github.com/QNFO/resume">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=QNFO&repo=resume&theme=tokyonight&hide_border=true&description_lines_count=3" alt="QNFO/resume" />
+  <a href="https://github.com/rwnq8/resume">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rwnq8&repo=resume&theme=tokyonight&hide_border=true&description_lines_count=3" alt="rwnq8/resume" />
   </a>
   <a href="https://github.com/QNFO/wbs-6-synthesis">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=QNFO&repo=wbs-6-synthesis&theme=tokyonight&hide_border=true&description_lines_count=3" alt="QNFO/wbs-6-synthesis" />
