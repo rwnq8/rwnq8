@@ -8,6 +8,16 @@
   Resume DOI: https://doi.org/10.5281/zenodo.21737024
 -->
 
+<!--
+  ═══════════════════════════════════════════════════════════════════
+  DESIGN FREEZE (2026-08-05): Visual structure below is LOCKED.
+  Content-only edits allowed — text, numbers, links, research entries.
+  Preserve: typing SVGs, shield badges, social badges, centered
+  layout, <hr> separators, badge-style buttons, section headers,
+  and table formats. Do not remove or restyle any frozen element.
+  ═══════════════════════════════════════════════════════════════════
+-->
+
 <div align="center">
 
   <h1><a href="https://github.com/rwnq8"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=4000&pause=100000&color=0E75B6&center=true&vCenter=true&repeat=false&width=550&lines=Rowan+Brad+Quni-Gudzinas" alt="Rowan Brad Quni-Gudzinas" /></a></h1>
