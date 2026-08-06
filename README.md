@@ -82,6 +82,22 @@ I don't just publish papers — I build products that operate at national scale 
 
 ---
 
+## Working Demos — Verified Executable Research
+
+<div align="center">
+
+**Not static mockups.** Every demo below is wired to real computation and passes an automated Chrome test suite (15/15 checks) against its deployed URL — verified, not aspirational.
+
+</div>
+
+| Demo | Status | Try it | Source |
+|:-----|:-------|:-------|:-------|
+| **Bruhat–Tits QEC: Staircase Redundancy** — interactive proof that on an ultrametric (p-adic) code, redundancy grows in discrete staircase steps (not the smooth Archimedean curve), creating QEC–Darwinism coexistence windows. Companion to paper DOI 10.5281/zenodo.21817596 | ✅ LIVE · VERIFIED (Chrome 15/15) | [GitHub Pages](https://qnfo.github.io/qwav-demo-bt-qec/) · [Cloudflare Pages](https://qwav-demo-bt-qec.pages.dev) | [Source + Tests](https://github.com/QNFO/qwav-demo-bt-qec) |
+
+<sup>Demos are listed here only after passing the full verification gate: computation engine golden-value tests + Chrome click-through suite + deployed-URL checks + zero console errors.</sup>
+
+---
+
 ## Key Research Programs
 
 <div align="center">
