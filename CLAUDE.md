@@ -1,3 +1,5 @@
+@AGENTS.md
+
 # rwnq8: rules for agent sessions
 
 ## Own the whole software lifecycle (SDLC-OWN-1, owner directive 2026-11-06)
