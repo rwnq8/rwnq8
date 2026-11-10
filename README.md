@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/FHWA-National_Network_Model-1F618D?style=for-the-badge" alt="U.S. Federal Highway Administration: national Tour-Based Model System" />
   <img src="https://img.shields.io/badge/AARP-Livability_Index-D35400?style=for-the-badge" alt="AARP Livability Index: product manager" />
   <img src="https://img.shields.io/badge/QNFO-Founder-24315E?style=for-the-badge" alt="Founder of QNFO" />
-  <a href="https://ultrastable.io"><img src="https://img.shields.io/badge/Directs-Ultrastable_platform-117A65?style=for-the-badge" alt="Directs Ultrastable, a self-governing development platform" /></a>
+  <a href="https://ultrastable.io"><img src="https://img.shields.io/badge/Founder_%26_Director-Ultrastable-117A65?style=for-the-badge" alt="Founder and director of Ultrastable, an autonomous development platform" /></a>
 </p>
 
 <p align="center">
@@ -45,7 +45,7 @@ I study autonomous AI systems as systems: how their parts interact, where they f
 - **Network modeling since my early jobs in transportation.** GIS analyst, then transportation network modeling as a systems planner at the Delaware Valley Regional Planning Commission (2005 to 2008) and a consultant at IBI Group (2008 to 2011). At the U.S. Federal Highway Administration I specified the national Tour-Based Model System for long-distance passenger travel and directed the contractor team that built it, co-directed the $10M National Household Travel Survey, and managed a $1.5M federal research portfolio as a certified Contracting Officer's Representative.
 - **Data-driven decisions at national scale.** Analytics and machine-learning engagements for federal and public-sector clients at Deloitte. At AARP's Public Policy Institute I led the Livability Index, which combines 50+ data sources across 7 domains to score U.S. neighborhoods and inform policy.
 - **Autonomous systems research at [QNFO](https://qnfo.org).** I designed and operate an autonomous AI research system that drafts, referees, revises, publishes and corrects papers, and I study it: what it delivers, what it costs, how it fails, and how its claims stay auditable.
-- **A self-governing development platform.** The fleet behind QNFO is now a platform of its own called Ultrastable: it chooses its own work from its metrics and failures, ships through coding agents, proves every deploy live with automatic rollback, and scores its decisions against logged predictions. QNFO is its first customer. I direct it. [Every claim, checked live](https://ultrastable.io) · [design and gaps](https://github.com/QNFO/qnfo-workers/blob/main/docs/PRODUCT-ULTRASTABLE.md).
+- **Founder and director of Ultrastable, an autonomous development platform.** In 2026 I began launching the fleet behind QNFO as its own platform ([case study](https://rwnq8.github.io/ultrastable/)); my part is systems design and direction, and coding agents write the code. It chooses its own work from its metrics and failures, ships through coding agents, proves every deploy live with automatic rollback, and scores its decisions against logged predictions. QNFO is its first installation. [Every claim, checked live](https://ultrastable.io) · [design and gaps](https://github.com/QNFO/qnfo-workers/blob/main/docs/PRODUCT-ULTRASTABLE.md).
 - **Current questions:** oversight of AI systems that act on their own; how such a system states what it does not know; what a correct answer from an agentic system costs in energy.
 
 Earlier work is published under **Brad Gudzinas**.
@@ -83,6 +83,7 @@ Every QNFO paper is prepared with an AI-assisted research pipeline, and I am res
 
 | Role | Organization | Period |
 |:-----|:-------------|:-------|
+| **Founder and Director** | [Ultrastable](https://ultrastable.io), an autonomous development platform | 2026 to now |
 | **Founder** | [QNFO](https://qnfo.org) (independent research) | 2024 to now |
 | **Executive Director and Founder** | Empowering Change, a nonprofit that built an LLM legal-navigation tool for self-represented litigants | 2023 to 2024 |
 | **Platform Data Product Manager** | iManage | 2022 to 2023 |
