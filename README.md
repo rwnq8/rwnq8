@@ -24,6 +24,7 @@
   <img src="https://img.shields.io/badge/FHWA-National_Network_Model-1F618D?style=for-the-badge" alt="U.S. Federal Highway Administration: national Tour-Based Model System" />
   <img src="https://img.shields.io/badge/AARP-Livability_Index-D35400?style=for-the-badge" alt="AARP Livability Index: product manager" />
   <img src="https://img.shields.io/badge/QNFO-Founder-24315E?style=for-the-badge" alt="Founder of QNFO" />
+  <a href="https://qnfo.org/platform"><img src="https://img.shields.io/badge/Directs-Ultrastable_platform-117A65?style=for-the-badge" alt="Directs Ultrastable, a self-governing development platform" /></a>
 </p>
 
 <p align="center">
@@ -44,7 +45,7 @@ I study autonomous AI systems as systems: how their parts interact, where they f
 - **Network modeling since my early jobs in transportation.** GIS analyst, then transportation network modeling as a systems planner at the Delaware Valley Regional Planning Commission (2005 to 2008) and a consultant at IBI Group (2008 to 2011). At the U.S. Federal Highway Administration I specified the national Tour-Based Model System for long-distance passenger travel and directed the contractor team that built it, co-directed the $10M National Household Travel Survey, and managed a $1.5M federal research portfolio as a certified Contracting Officer's Representative.
 - **Data-driven decisions at national scale.** Analytics and machine-learning engagements for federal and public-sector clients at Deloitte. At AARP's Public Policy Institute I led the Livability Index, which combines 50+ data sources across 7 domains to score U.S. neighborhoods and inform policy.
 - **Autonomous systems research at [QNFO](https://qnfo.org).** I designed and operate an autonomous AI research system that drafts, referees, revises, publishes and corrects papers, and I study it: what it delivers, what it costs, how it fails, and how its claims stay auditable.
-- **A self-governing development platform.** The fleet behind QNFO is now a platform of its own (working name Ultrastable): it chooses its own work from its metrics and failures, ships through coding agents, proves every deploy live with automatic rollback, and scores its decisions against logged predictions. QNFO is its first customer. [Product page, evidence and gaps](https://github.com/QNFO/qnfo-workers/blob/main/docs/PRODUCT-ULTRASTABLE.md).
+- **A self-governing development platform.** The fleet behind QNFO is now a platform of its own (working name Ultrastable): it chooses its own work from its metrics and failures, ships through coding agents, proves every deploy live with automatic rollback, and scores its decisions against logged predictions. QNFO is its first customer. I direct it. [Every claim, checked live](https://qnfo.org/platform) · [design and gaps](https://github.com/QNFO/qnfo-workers/blob/main/docs/PRODUCT-ULTRASTABLE.md).
 - **Current questions:** oversight of AI systems that act on their own; how such a system states what it does not know; what a correct answer from an agentic system costs in energy.
 
 Earlier work is published under **Brad Gudzinas**.
